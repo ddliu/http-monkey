@@ -12,3 +12,4 @@ docker run --rm ddliu/http-monkey https://www.google.com https://www.github.com
 
 - SLEEP: Seconds to sleep every request round
 - USERAGENT: User agent to send as header
+- SIZE: Add extra content with specific size(filled with 0)
